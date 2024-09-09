@@ -4,5 +4,14 @@ links:
     collection: about
   - title: Take Assessment
     url: /assessment/
-  - title: Contact Us
-    url: /contact-us/
+  - title: Get Help
+    url: /get-help/
+    sublinks:
+      - title: Functional Screening
+        url: https://www.healthhub.sg/programmes/aap/functional-screening
+      - title: CHAS GP Clinics
+        url: https://www.chas.sg/clinic-locator
+      - title: Polyclinics
+        url: https://www.sgdi.gov.sg/other-organisations/polyclinics
+      - title: Private Audiologist
+        url: https://www.audiologysingapore.org/find-an-audiologist/
