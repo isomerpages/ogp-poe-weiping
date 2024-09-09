@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Implications of Presbycusis.md
       - What is Presbycusis.md
+      - Implications of Presbycusis.md
       - Management of Presbycusis.md
