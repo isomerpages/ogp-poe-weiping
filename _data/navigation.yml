@@ -15,3 +15,5 @@ links:
         url: https://www.sgdi.gov.sg/other-organisations/polyclinics
       - title: Private Audiologist
         url: https://www.audiologysingapore.org/find-an-audiologist/
+  - title: News and Events
+    resource_room: true
