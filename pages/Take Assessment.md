@@ -16,4 +16,4 @@ description: Take this assessment to check if you may be suffering from Presbycu
 
 Hearing problems that are ignored or untreated can get worse. 
 
-**You should seek professional advice if you have checked more than 3 boxes.**
+**You should [seek professional advice](https://staging.d72zc28btbqvn.amplifyapp.com/get-help/) if you have checked more than 3 boxes.**
