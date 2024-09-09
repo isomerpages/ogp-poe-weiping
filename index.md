@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: News and Events
+      subtitle: Stay up to date
       id: resources
 ---
