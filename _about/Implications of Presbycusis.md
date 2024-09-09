@@ -21,7 +21,15 @@ of cognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Fall-related injuries</p>
+<p><strong>Fall-related injuries</strong>
+</p>
+<p>People with hearing loss have diminished auditory cues (like footsteps,
+voices, or traffic) and often need to focus harder on understanding sounds
+and speech. This reduced spatial awareness and additional cognitive effort
+may divert attention away from maintaining balance or noticing potential
+hazards, thus increasing the likelihood of a fall.</p>
+<p>Falls in older adults can lead to injuries, hospitalisations, and a loss
+of independence.</p>
 </li>
 </ul>
 </td>
@@ -30,7 +38,14 @@ of cognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Social isolation</p>
+<p><strong>Social isolation</strong>
+</p>
+<p>Untreated hearing loss often results in communication difficulties, affecting
+social interactions with loved ones and friends. This can result in increased
+frustration when interacting with patients with presbycusis. Difficulties
+with communication may eventually reduce interactions and participation
+in enjoyable activities, resulting in increased loneliness and quality
+of life among these patients.</p>
 </li>
 </ul>
 </td>
@@ -39,16 +54,8 @@ of cognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Cognitive decline</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Dementia</p>
+<p><strong>Cognitive decline &amp; Dementia</strong>
+</p>
 <p>A study based in the United States found that the risk of incident dementia
 was 1.89 times higher in elderly with mild hearing loss, and 4.94 times
 higher in elderly with severe hearing loss.</p>
@@ -77,16 +84,10 @@ perception, affecting other cognitive functions.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Depression</p>
+<p><strong>Depression</strong>
+</p>
 <p>Studies have also found that up to 20% of patients with presbycusis also
-have symptoms of depression. Several mechanisms have been proposed for
-this.</p>
-<p>Untreated hearing loss often results in communication difficulties, affecting
-social interactions with loved ones and friends. This can result in increased
-frustration when interacting with patients with presbycusis. Difficulties
-with communication may eventually reduce interactions and participation
-in enjoyable activities, resulting in increased loneliness and quality
-of life among these patients.</p>
+have symptoms of depression.</p>
 <p>Depression and cognitive decline have an inherent two-way relationship,
 with one worsening the other.</p>
 </li>
@@ -95,5 +96,6 @@ with one worsening the other.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>*I would prefer this table to be an accordion instead.</p>
 <p></p>
