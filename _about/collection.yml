@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Implications of Presbycusis/Association with dementia.md
       - Implications of Presbycusis/.keep
       - What is Presbycusis.md
