@@ -14,4 +14,6 @@ description: Take this assessment to check if you may be suffering from Presbycu
 <input type="checkbox"> Think that others seem to mumble <br>
 <input type="checkbox"> Cannot understand what's being said when children and people with higher pitched voices speak to you <br>
 
+Some people may not want to admit they have trouble hearing. Hearing problems that are ignored or untreated can get worse. 
+
 **You should see your doctor if you have checked more than 3 boxes.**
