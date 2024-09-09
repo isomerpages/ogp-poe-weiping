@@ -28,4 +28,8 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
