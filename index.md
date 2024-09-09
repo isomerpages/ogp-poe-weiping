@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Presbycusis
+description: Awareness and Resources on Age-Related Hearing Loss
 image: /images/isomer-logo.svg
 permalink: /
 notification: Do you catch yourself saying "har?" more often lately?
