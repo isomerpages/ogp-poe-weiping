@@ -46,4 +46,14 @@ of cognitive disorders.</p>
 <p>Insert content here</p>  
 </div></li>  
   
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Fall-related injuries</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">Social isolation</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+
 </ul>
