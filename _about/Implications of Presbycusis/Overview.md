@@ -28,21 +28,22 @@ of cognitive disorders.</p>
 </li>
 </ul>
 <p></p>
-<p>&lt;ul class="jekyllcodex_accordion"&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;
-<br>&lt;label for="accordion1"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;Insert content here&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;
-<br>&lt;label for="accordion2"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;Insert content here&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
-<br>&lt;label for="accordion3"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;Insert content here&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;/ul&gt;</p>
+
+<ul class="jekyllcodex_accordion">  
+  
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Cognitive Decline</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Dementia</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Depression</label><div>  
+<p>Insert content here</p>  
+</div></li>  
+  
+</ul>
