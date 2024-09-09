@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - What is Presbycusis.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
