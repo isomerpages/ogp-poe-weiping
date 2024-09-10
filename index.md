@@ -28,7 +28,7 @@ sections:
       subtitle: Extremely Common Condition
       description: Affecting up to 88% of Singaporean patients over the age of 60
       button: Find out more
-      url: /what-is-presbycusis/
+      url: about/what-is-presbycusis/
   - resources:
       title: News and Events
       subtitle: Stay up to date
