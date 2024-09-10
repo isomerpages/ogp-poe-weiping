@@ -7,22 +7,15 @@ description: ""
 <p>The consequences of leaving the condition untreated can be profound. Untreated
 hearing loss can spiral into diminished life quality and elevated risks
 of cognitive disorders.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Individuals with hearing loss are at higher risk of:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><strong>Individuals with hearing loss are at higher risk of:</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Fall-related injuries</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><strong>Fall-related injuries</strong>
-</p>
 <p>People with hearing loss have diminished auditory cues (like footsteps,
 voices, or traffic) and often need to focus harder on understanding sounds
 and speech. This reduced spatial awareness and additional cognitive effort
@@ -32,14 +25,14 @@ hazards, thus increasing the likelihood of a fall.</p>
 of independence.</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Social isolation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><strong>Social isolation</strong>
-</p>
 <p>Untreated hearing loss often results in communication difficulties, affecting
 social interactions with loved ones and friends. This can result in increased
 frustration when interacting with patients with presbycusis. Difficulties
@@ -48,14 +41,14 @@ in enjoyable activities, resulting in increased loneliness and quality
 of life among these patients.</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dementia &amp; Cognitive decline</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><strong>Cognitive decline &amp; Dementia</strong>
-</p>
 <p>A study based in the United States found that the risk of incident dementia
 was 1.89 times higher in elderly with mild hearing loss, and 4.94 times
 higher in elderly with severe hearing loss.</p>
@@ -78,25 +71,24 @@ perception, affecting other cognitive functions.</p>
 </ul>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Depression</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><strong>Depression</strong>
-</p>
 <p>Studies have also found that up to 20% of patients with presbycusis also
 have symptoms of depression.</p>
 <p>Depression and cognitive decline have an inherent two-way relationship,
 with one worsening the other.</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>*(I would prefer this table to be an accordion instead.)</p>
+</div>
+</details>
+</div>
+<p></p>
 <p>It also can affect public as well as personal safety, such as the ability
 to drive safely, when warning sounds are harder to hear.</p>
 <p></p>
