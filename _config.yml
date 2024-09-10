@@ -2,7 +2,7 @@ title: Presbycusis
 url: https://www.presbycusis.sg
 favicon: /images/hearing_test.png
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#01ab94"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -10,9 +10,9 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#f8e71c"
     - title: media-color-four
-      color: "#00838f"
+      color: "#9b9b9b"
     - title: media-color-five
       color: "#00838f"
 description: Awareness and Resources on Age-Related Hearing Loss
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dmckckhkvp6ou.amplifyapp.com
 prod: https://master.d72zc28btbqvn.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/isomerawareness_logo.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
