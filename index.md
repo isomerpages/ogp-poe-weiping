@@ -2,7 +2,7 @@
 layout: homepage
 title: Presbycusis
 description: Awareness and Resources on Age-Related Hearing Loss
-image: /images/isomer-logo.svg
+image: /images/isomerawareness_logo.svg
 permalink: /
 notification: Do you catch yourself saying "har?" more often lately? Take the
   assessment below  to find out if you're suffering from Presbycusis.
