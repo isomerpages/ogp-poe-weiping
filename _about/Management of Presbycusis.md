@@ -4,10 +4,13 @@ permalink: /management-of-presbycusis/
 variant: tiptap
 description: ""
 ---
+<p>Presbycusis is a natural part of aging, but early diagnosis and treatment
+can improve quality of life by preserving communication abilities and reducing
+the impact on daily activities.</p>
 <p>Increased awareness of the potential complications of hearing loss has
-placed increased importance on screening for hearing loss, as treatment
-with devices such as <strong>hearing aids </strong>has been shown to positively
-impact quality of life.</p>
+placed increased importance on <strong>screening</strong> for hearing loss,
+as treatment with devices such as <strong>hearing aids </strong>has been
+shown to positively impact quality of life.</p>
 <p>Where indicated, patients with severe-profound hearing loss not adequately
 rehabilitated with hearing aids will also be recommended<strong> cochlear implantation </strong>by
 Ear, Nose and Throat (ENT) Specialists.</p>
