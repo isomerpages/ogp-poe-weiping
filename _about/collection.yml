@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - What is Presbycusis/.keep
-      - What is Presbycusis.md
       - Implications of Presbycusis.md
       - Management of Presbycusis.md
