@@ -23,7 +23,7 @@ age-related hearing loss.</p>
 <p>It is vital for individuals experiencing presbycusis to seek help early.
 Timely detection and access to treatments are key to maintaining hearing
 health and improving overall well-being.</p>
-<p>If you or a loved one is noticing signs of hearing loss, don't wait—
-<a href="https://staging.d72zc28btbqvn.amplifyapp.com/get-help/" rel="noopener nofollow" target="_blank">reach out</a>to a healthcare professional today.</p>
+<p>If you or a loved one is noticing signs of hearing loss, don't wait— reach
+out to a healthcare professional today.</p>
 <p></p>
 <p></p>
