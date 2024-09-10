@@ -96,7 +96,8 @@ with one worsening the other.</p>
 </tr>
 </tbody>
 </table>
+<p>*(I would prefer this table to be an accordion instead.)</p>
 <p>It also can affect public as well as personal safety, such as the ability
 to drive safely, when warning sounds are harder to hear.</p>
-<p>*I would prefer this table to be an accordion instead.</p>
+<p></p>
 <p></p>
