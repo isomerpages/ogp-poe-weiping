@@ -10,7 +10,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.chas.sg/clinic-locator" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CHASlogo.png">
+<img style="width: 100%" height="auto" width="100%" alt="CHAS logo" src="/images/CHASlogo.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -18,11 +18,11 @@ description: ""
 <div class="isomer-card-description">Go to any CHAS GP clinic to obtain a referral to an audiologist.</div>
 <div class="isomer-card-link">Find a CHAS GP Clinic near you</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.sgdi.gov.sg/other-organisations/polyclinics" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/moh_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Polyclinics</div><div class="isomer-card-description">Go to any polyclinic to obtain a referral to an audiologist.</div><div class="isomer-card-link">Find a polyclinic near you</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.sgdi.gov.sg/other-organisations/polyclinics" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MOH logo" src="/images/moh_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Polyclinics</div><div class="isomer-card-description">Go to any polyclinic to obtain a referral to an audiologist.</div><div class="isomer-card-link">Find a polyclinic near you</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.audiologysingapore.org/find-an-audiologist/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Society for Audiology Professionals Singapore (SAPS) Logo" src="/images/audiologysglogo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Society for Audiology Professionals Singapore (SAPS) logo" src="/images/audiologysglogo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
