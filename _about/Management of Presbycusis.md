@@ -24,6 +24,8 @@ age-related hearing loss.</p>
 Timely detection and access to treatments are key to maintaining hearing
 health and improving overall well-being.</p>
 <p>If you or a loved one is noticing signs of hearing loss, don't wait—
-<a href="https://staging.d72zc28btbqvn.amplifyapp.com/get-help/" rel="noopener nofollow" target="_blank">reach out</a>to a healthcare professional today.</p>
+<a href="https://staging.d72zc28btbqvn.amplifyapp.com/get-help/" rel="noopener nofollow" target="_blank">reach out</a>
+</p>
+<p>to a healthcare professional today.</p>
 <p></p>
 <p></p>
