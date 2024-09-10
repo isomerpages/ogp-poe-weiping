@@ -4,47 +4,12 @@ permalink: /get-help/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>You can get help from the following if you are:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aged 60 and above</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Below 60 years old</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Project Silver Screen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="2">
+<p>Here are a few places you can seek help from:</p>
+<p><a href="https://www.healthhub.sg/programmes/aap/functional-screening" rel="noopener nofollow" target="_blank">Functional Screening - Project Silver Screen</a>
+</p>
 <p>CHAS GP Clinics</p>
 <p>Polyclinics</p>
 <p>Private Audiologists</p>
-</td>
-</tr>
-<tr></tr>
-<tr></tr>
-</tbody>
-</table>
 <p><strong>Supporting patients requiring financial assistance</strong>
 </p>
 <p>Singaporeans aged 60 and above with disabling hearing loss may be eligible
