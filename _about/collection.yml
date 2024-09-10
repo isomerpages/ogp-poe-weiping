@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - What is Presbycusis/Causes.md
-      - What is Presbycusis/Overview.md
       - What is Presbycusis/.keep
+      - What is Presbycusis/Overview.md
+      - What is Presbycusis/Causes.md
       - Implications of Presbycusis.md
       - Management of Presbycusis.md
