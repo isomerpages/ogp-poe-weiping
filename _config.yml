@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dmckckhkvp6ou.amplifyapp.com
 prod: https://master.d72zc28btbqvn.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomerawareness_logo.svg
+shareicon: /images/isomerawareness_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
